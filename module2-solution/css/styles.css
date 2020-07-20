@@ -33,7 +33,7 @@ h1 {
   position:relative;
   left : 69.0%;
   font-family: sans-serif;
-  
+
 
 }
 
@@ -44,7 +44,17 @@ h1 {
 
 }
 
+#html{
+  background-color: #80aaff;
+}
 
+#css{
+  background-color: #ff80aa;
+}
+
+#boot{
+  background-color: #ffdb4d;
+}
 
 
 /********** Large devices only **********/
